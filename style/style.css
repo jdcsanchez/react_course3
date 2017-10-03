@@ -1,0 +1,21 @@
+td, th{
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.input-group{
+  margin: 20px 0px;
+}
+/*.graph-container{
+  max-height: 120px;
+  max-width: 180px;
+}*/
+
+svg {
+  150px;
+}
+
+td:first-of-type, td:first-of-type > div{
+  height : 200px;
+  width: 250px;
+}
